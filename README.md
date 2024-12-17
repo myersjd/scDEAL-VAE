@@ -1,3 +1,5 @@
+THIS IS NOT THE ORIGINAL scDEAL! Please see [here](https://github.com/OSU-BMBL/scDEAL) for original authors. This is a repo for testing reproducability and refining VAE implementation. See the authors' README below:
+
 # scDEAL documentation
 Deep Transfer Learning of Drug Sensitivity by Integrating Bulk and Single-cell RNA-seq data
 
